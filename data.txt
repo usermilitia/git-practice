@@ -1,3 +1,4 @@
 Name: Goku
 Age: 25
 Favorite Color: Yellow
+Fav Band: Amnesia Scanner
